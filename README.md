@@ -3,6 +3,7 @@
 - 🌱 I’m currently a student at Microverse learning Full Stack Web Development
 - 💞️ I’m looking to collaborate with anyone on any project that relates to my course
 - 📫 How to reach me ...
-1. github : https://github.com/Kidd254
-2 linkedin :https://www.linkedin.com/in/lawrence-kioko-972035240/
+-github : https://github.com/Kidd254
+-linkedin :https://www.linkedin.com/in/lawrence-kioko-972035240/
+-twitter : https://twitter.com/lawrenc98789206
 
