@@ -6,7 +6,7 @@
 - 
 - GitHub: [@Kidd254](https://github.com/Kidd254)
 
-- [lawrence-kioko-972035240/] (https://www.linkedin.com/in/lawrence-kioko-972035240/)
+- Linkedin: [lawrence-kioko-972035240/](https://www.linkedin.com/in/lawrence-kioko-972035240/)
 
-- [lawrenc98789206] (https://twitter.com/lawrenc98789206)
+- Twitter:[lawrenc98789206](https://twitter.com/lawrenc98789206)
 
