@@ -10,3 +10,6 @@
 
 - Twitter:[lawrenc98789206](https://twitter.com/lawrenc98789206)
 
+-Medium:[@lorenkioko](https://medium.com/@lorenkioko)
+
+-Angelist:[lawrence-muema-kioko](https://angel.co/u/lawrence-muema-kioko)
