@@ -8,8 +8,8 @@
 
 - Linkedin: [lawrence-kioko-972035240/](https://www.linkedin.com/in/lawrence-kioko-972035240/)
 
-- Twitter:[lawrenc98789206](https://twitter.com/lawrenc98789206)
+- Twitter: [lawrenc98789206](https://twitter.com/lawrenc98789206)
 
-- Medium:[@lorenkioko](https://medium.com/@lorenkioko)
+- Medium: [@lorenkioko](https://medium.com/@lorenkioko)
 
-- Angelist:[lawrence-muema-kioko](https://angel.co/u/lawrence-muema-kioko)
+- Angelist: [lawrence-muema-kioko](https://angel.co/u/lawrence-muema-kioko)
