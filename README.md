@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate with anyone on any project that relates to my course
 - 📫 How to reach me ...
 - 
-- [Kidd254] (https://github.com/Kidd254)
+- GitHub: [@Kidd254](https://github.com/Kidd254)
 
 - [lawrence-kioko-972035240/] (https://www.linkedin.com/in/lawrence-kioko-972035240/)
 
