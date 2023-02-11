@@ -7,7 +7,7 @@
 <!------------------------------ Now ------------------------------>
  <section>
    <h2><i>What is happening on 2023?</i></h2>
- I am currently on my Micreoverse classes and will be available soon to start new projects but if you are interesesting in my profile, contact me by sending an email or following me in my linkedIn.
+ I am currently on my Microverse classes and will be available soon to start new projects but if you are interesesting in my profile, contact me by sending an email or following me in my linkedIn.
   
  - 📧 lorenkioko@gmail.com
   - 🔗  Linkedin: [lawrence-kioko](https://www.linkedin.com/in/lawrence-kioko-972035240/)
