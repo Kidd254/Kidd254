@@ -13,10 +13,7 @@
  <section>
    <h2><i>What is happening on 2023?</i></h2>
  I am currently on my Microverse classes and will be available soon to start new projects but if you are interesesting in my profile, contact me by sending an email or following me in my linkedIn.
-  
- - 📧 lorenkioko@gmail.com
-  - 🔗  [LinkedIn](https://www.linkedin.com/in/lawrence-kioko-972035240/)
-  - [Here is My Portfolio](https://kidd254.github.io/Lawrence-s-Portfolio/)
+
 </section>
 <!------------------------------ Experience ------------------------------>
  <section>
@@ -91,9 +88,10 @@ href="https://www.linkedin.com/in/lawrence-kioko-972035240/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
 href="mailto:lorenkioko@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
-href="https://twitter.com/_Cabraham"><img
+href="https://twitter.com/lawrenc98789206"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
+  - [Here is My Portfolio](https://kidd254.github.io/Lawrence-s-Portfolio/)
   
 <div align="end">
 <p><b>Visitors Count</b></p>  
