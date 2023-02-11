@@ -17,7 +17,7 @@
   <h2><i>Experience</i></h2>
   <br>
   <p>
-  In my Two years of experience in web development, I have built different web applications and websites. In my experience, mostly I used to work with agile methodologies as SCRUM being not only part of a team but also Scrum Master many times. I applied this methodologies which I understand theorethicaly in my BSc in software engineering and use in work environmeent.
+  With two years of experience in web development under my belt, I have honed my skills in HTML, CSS, and JavaScript to bring a variety of web applications and websites to life. I have a strong foundation in agile methodologies, particularly SCRUM, and have had the opportunity to lead teams as a Scrum Master on several projects. My expertise in these methodologies is not just limited to theory, as I have had the chance to apply my skills in full-stack development skills to real-world scenarios in my work environment..
   </p>
 </section>
 <!------------------------------ Knowledge ------------------------------>
@@ -55,7 +55,7 @@
   <h2><i>Soft Skills</i></h2>
   <br>
   <p>
- But I am not only a skilled software engineer but also a friendly, tolerant, respectful, dynamic, communicative, organizer, and attuned to others, making me a valuable asset to any team. This unique combination of technical expertise, positive attitude, and soft skills makes me the perfect candidate for any web development project.
+With a passion for both software and web development, I bring to the table not only technical savvy but also an infectious positive attitude. I am a friendly, tolerant, and respectful individual who values dynamic communication and is always attuned to the needs of others. This rare combination of technical and soft skills makes me a true standout in the field and a valuable asset to any team. I am a highly organized, communicative professional who possesses the perfect balance of technical expertise and positive energy to tackle any web development project with confidence and flair.
   </p>
 </section>
 
