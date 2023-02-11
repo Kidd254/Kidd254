@@ -91,7 +91,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 href="https://twitter.com/lawrenc98789206"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
-  - [Here is My Portfolio](https://kidd254.github.io/Lawrence-s-Portfolio/)
+<p>You can check out my portfolio <a href="https://kidd254.github.io/Lawrence-s-Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
   
 <div align="end">
 <p><b>Visitors Count</b></p>  
