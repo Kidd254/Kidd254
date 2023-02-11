@@ -15,7 +15,7 @@
  I am currently on my Microverse classes and will be available soon to start new projects but if you are interesesting in my profile, contact me by sending an email or following me in my linkedIn.
   
  - 📧 lorenkioko@gmail.com
-  - 🔗  Linkedin: [lawrence-kioko](https://www.linkedin.com/in/lawrence-kioko-972035240/)
+  - 🔗  [LinkedIn](https://www.linkedin.com/in/lawrence-kioko-972035240/)
   - [Here is My Portfolio](https://kidd254.github.io/Lawrence-s-Portfolio/)
 </section>
 <!------------------------------ Experience ------------------------------>
