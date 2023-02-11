@@ -6,7 +6,7 @@
   <!------------------------------ bio ------------------------------>
   <section>
   <h2>Bio</h2>
-  Meet Kidd254, a recent graduate from Chuka University with a Bachelor's degree in Purchasing and Supplies. With a passion for technology and a desire to constantly improve,Kidd254 has taken on a new challenge as a student at Microverse. Over the last four months, Kidd254 has honed their skills in a variety of areas including HTML, CSS, JavaScript, Git flow, and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Kidd254 is well on their way to becoming a successful software developer. In addition to technical skills, Kidd254 has also developed strong communication skills, making them a valuable asset to any team. Kidd254 is excited to continue learning and growing as a software developer and making an impact in the tech industry.
+  Meet Kidd254, a recent graduate from Chuka University with a Bachelor's degree in Purchasing and Supplies. With a passion for technology and a desire to constantly improve, Kidd254 has taken on a new challenge as a student at Microverse. Over the last four months, Kidd254 has honed their skills in a variety of areas including HTML, CSS, JavaScript, Git flow, and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Kidd254 is well on their way to becoming a successful software developer. In addition to technical skills, Kidd254 has also developed strong communication skills, making them a valuable asset to any team. Kidd254 is excited to continue learning and growing as a software developer and making an impact in the tech industry.
 </section>
 
 <!------------------------------ Now ------------------------------>
@@ -59,8 +59,7 @@
  <section>
   <h2><i>Soft Skills</i></h2>
   <br>
-  <p>
-With a passion for both software and web development, I bring to the table not only technical savvy but also an infectious positive attitude. I am a friendly, tolerant, and respectful individual who values dynamic communication and is always attuned to the needs of others. This rare combination of technical and soft skills makes me a true standout in the field and a valuable asset to any team. I am a highly organized, communicative professional who possesses the perfect balance of technical expertise and positive energy to tackle any web development project with confidence and flair.
+  <p> With a passion for both software and web development, I bring to the table not only technical savvy but also an infectious positive attitude. I am a friendly, tolerant, and respectful individual who values dynamic communication and is always attuned to the needs of others. This rare combination of technical and soft skills makes me a true standout in the field and a valuable asset to any team. I am a highly organized, communicative professional who possesses the perfect balance of technical expertise and positive energy to tackle any web development project with confidence and flair.
   </p>
 </section>
 
