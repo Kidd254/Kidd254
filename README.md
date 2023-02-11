@@ -84,6 +84,16 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kidd254&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kidd254&theme=dark)](https://git.io/streak-stats) 
+ <h3 align="center">Let's Connect 🤝</h3>
+<div align="center">
+<a target="_blank"
+href="https://www.linkedin.com/in/lawrence-kioko-972035240/"><img
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
+href="mailto:lorenkioko@gmail.com"><img
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
+href="https://twitter.com/_Cabraham"><img
+src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<div/>
   
 <div align="end">
 <p><b>Visitors Count</b></p>  
