@@ -6,13 +6,13 @@
   <!------------------------------ bio ------------------------------>
   <section>
   <h2>Bio</h2>
-  <p>Meet Kidd254, a recent graduate from Chuka University with a Bachelor's degree in Purchasing and Supplies. With a passion for technology and a desire to constantly improve, Kidd254 has taken on a new challenge as a student at Microverse. Over the last four months, Kidd254 has honed their skills in a variety of areas including HTML, CSS, JavaScript, Git flow, and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Kidd254 is well on his way to becoming a successful full stack software developer. In addition to technical skills, Kidd254 has also developed strong communication skills, making them a valuable asset to any team. Kidd254 is excited to continue learning and growing as a software developer and making an impact in the tech industry.</p>
+  <p>Meet Kidd254, a recent graduate from Chuka University with a Bachelor's degree in Purchasing and Supplies. With a passion for technology and a desire to constantly improve, Kidd254 has taken on a new challenge as a student at Microverse. Over the last four months, Kidd254 has honed his skills in a variety of areas including HTML, CSS, JavaScript, Git flow, and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Kidd254 is well on his way to becoming a successful full stack software developer. In addition to technical skills, Kidd254 has also developed strong communication skills, making him a valuable asset to any team. Kidd254 is excited to continue learning and growing as a software developer and making an impact in the tech industry.</p>
 </section>
 
 <!------------------------------ Now ------------------------------>
  <section>
    <h2><i>What is happening on 2023?</i></h2>
- I am currently on my Microverse classes and will be available soon to start new projects but if you are interesesting in my profile, contact me by sending an email or following me in my linkedIn.
+ I am currently on my Microverse classes and will be available soon to start new projects but if you are interested in my profile, contact me by sending an email or following me in my linkedIn.
 
 </section>
 <!------------------------------ Experience ------------------------------>
