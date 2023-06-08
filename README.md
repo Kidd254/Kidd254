@@ -1,4 +1,4 @@
-### Hi, I am [Lawrence Kioko](https://github.com/Kidd254/Kidd2540)👋
+### Hello, I am [Lawrence Kioko](https://github.com/Kidd254/Kidd2540)👋
 
 
 
