@@ -6,7 +6,7 @@
   <!------------------------------ bio ------------------------------>
   <section>
   <h2>Bio</h2>
-  <p>Meet Lawrence Kioko from Nairobi, Kenya, an aspiring Full-Stack Developer. With a passion for technology and a desire to constantly improve, Lawrence Kioko has taken on a new challenge as a student at Microverse. Over the last four months, Lawrence Kioko has honed his skills in a variety of areas including HTML, CSS, JavaScript, Git flow, and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Lawrence Kioko is well on his way to becoming a successful full stack software developer. In addition to technical skills, Lawrence Kioko has also developed strong communication skills, making him a valuable asset to any team. Lawrence Kioko is excited to continue learning and growing as a software developer and making an impact in the tech industry. ou can check out my portfolio <a href="https://kidd254.github.io/Lawrence-s-Portfolio/">here</a> If you are amazed and look forward for a communication and discusion, kindly contact me through 📧 lorenkioko@gmail.com</p>
+  <p>Meet Lawrence Kioko from Nairobi, Kenya, an aspiring Full-Stack Developer. With a passion for technology and a desire to constantly improve, Lawrence Kioko has taken on a new challenge as a student at Microverse. Over the last four months, Lawrence Kioko has honed his skills in a variety of areas including HTML, CSS, JavaScript, Git flow, and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Lawrence Kioko is well on his way to becoming a successful full stack software developer. In addition to technical skills, Lawrence Kioko has also developed strong communication skills, making him a valuable asset to any team. Lawrence Kioko is excited to continue learning and growing as a software developer and making an impact in the tech industry. You can check out my portfolio <a href="https://kidd254.github.io/Lawrence-s-Portfolio/">here</a> If you are amazed and look forward for a communication and discusion, kindly contact me through 📧 lorenkioko@gmail.com</p>
 </section>
 <section>
   
@@ -33,6 +33,7 @@
 
 <section>
 <h2>Portfolio</h2>
+<p>An updated portfolio will be added soon</p>
   
 </section>
 <!------------------------------ Knowledge ------------------------------>
