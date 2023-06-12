@@ -6,13 +6,7 @@
   <!------------------------------ bio ------------------------------>
   <section>
   <h2>Bio</h2>
-  <p>Meet Lawrence Kioko, a Full-Stack Developer from Nairobi, Kenya. With a passion for technology and a strong desire to constantly improve, Lawrence Kioko has taken on a new challenge as a student at Microverse. Over the last four months, Lawrence has honed his skills in a variety of areas including HTML, CSS, JavaScript, Git flow, and collaboration. Equipped with responsive web design knowledge acquired from FreeCodeCamp and a certificate to prove it, Lawrence is well on his way to becoming a successful full-stack software developer. With expertise in front-end technologies such as HTML, CSS, and JavaScript, as well as proficiency in Git flow and collaboration, Lawrence Kioko is ready to tackle the challenges of building robust and user-friendly web applications.</p>
-<p>In addition to technical skills, Lawrence  has also developed strong communication skills, making him a valuable asset to any team. Lawrence Kioko is excited to continue learning and growing as a software developer, and he is determined to make a significant impact in the tech industry.You can check out Lawrence Kioko's portfolio <a href="https://kidd254.github.io/Lawrence-s-Portfolio/">here</a> . If you are amazed and look forward to further communication and discussion, kindly contact Lawrence Kioko through 📧 lorenkioko@gmail.com.</p>
-</section>
-<section>
-  
-<h2>Location</h2>
-<p>I am currently in Nairobi, Kenya but I'm open to job offers from foreign countries for an opportunity to work remotely.</p>
+  <p>Meet Lawrence Kioko from Nairobi, Kenya, an aspiring Full-Stack Developer. With a passion for technology and a desire to constantly improve, Lawrence Kioko has taken on a new challenge as a student at Microverse. Over the last four months, Lawrence Kioko has honed his skills in a variety of areas including HTML, CSS, JavaScript, Git flow, and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Lawrence Kioko is well on his way to becoming a successful full stack software developer. In addition to technical skills, Lawrence Kioko has also developed strong communication skills, making him a valuable asset to any team. Lawrence Kioko is excited to continue learning and growing as a software developer and making an impact in the tech industry.You can check out my portfolio <a href="https://kidd254.github.io/Lawrence-s-Portfolio/">here</a> . If you are amazed and look forward to further communication and discussion, kindly contact Lawrence Kioko through 📧 lorenkioko@gmail.com.</p>
 </section>
 
 <!------------------------------ Now ------------------------------>
@@ -29,13 +23,6 @@
   <p>
   With two years of experience in web development under my belt, I have honed my skills in HTML, CSS, and JavaScript to bring a variety of web applications and websites to life. I have a strong foundation in agile methodologies, particularly SCRUM, and have had the opportunity to lead teams as a Scrum Master on several projects. My expertise in these methodologies is not just limited to theory, as I have had the chance to apply my skills in full-stack development skills to real-world scenarios in my work environment..
   </p>
-</section>
-<br>
-
-<section>
-<h2>Portfolio</h2>
-<p>An updated portfolio will be added soon</p>
-  
 </section>
 <!------------------------------ Knowledge ------------------------------>
  <section>
@@ -97,10 +84,6 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kidd254&theme=dark)](https://git.io/streak-stats) 
 
  <br>
-  <section>
-    <h2>Gmail</h2>
-    <p>Feel free to contact me through my gmail account 📧 lorenkioko@gmail.com</p>
-  </section>
   
  <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
