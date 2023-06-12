@@ -8,21 +8,32 @@
   <h2>Bio</h2>
   <p>Meet Lawrence Kioko from Nairobi, Kenya, an aspiring Full-Stack Developer. With a passion for technology and a desire to constantly improve, Lawrence Kioko has taken on a new challenge as a student at Microverse. Over the last four months, Lawrence Kioko has honed his skills in a variety of areas including HTML, CSS, JavaScript, Git flow, and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Lawrence Kioko is well on his way to becoming a successful full stack software developer. In addition to technical skills, Lawrence Kioko has also developed strong communication skills, making him a valuable asset to any team. Lawrence Kioko is excited to continue learning and growing as a software developer and making an impact in the tech industry. ou can check out my portfolio <a href="https://kidd254.github.io/Lawrence-s-Portfolio/">here</a> If you are amazed and look forward for a communication and discusion, kindly contact me through 📧 lorenkioko@gmail.com</p>
 </section>
+<section>
+  
+<h2>Location</h2>
+<p>I am currently in Nairobi, Kenya but I'm open to job offers from foreign countries for an opportunity to work remotely.</p>
+</section>
 
 <!------------------------------ Now ------------------------------>
  <section>
    <h2><i>What is happening on 2023?</i></h2>
- I am currently on my Microverse classes and will be available soon to start new projects but if you are interested in my profile, contact me by sending an email
+ I am currently on my Microverse classes studying remotely from Nairobi, Kenya. I will be available soon to start new projects but if you are interested in my profile, contact me by sending an email
  -📧 lorenkioko@gmail.com
-
 </section>
-<!------------------------------ Experience ------------------------------>
+
  <section>
   <h2><i>Experience</i></h2>
   <br>
+   <!------------------------------ Experience ------------------------------>
   <p>
   With two years of experience in web development under my belt, I have honed my skills in HTML, CSS, and JavaScript to bring a variety of web applications and websites to life. I have a strong foundation in agile methodologies, particularly SCRUM, and have had the opportunity to lead teams as a Scrum Master on several projects. My expertise in these methodologies is not just limited to theory, as I have had the chance to apply my skills in full-stack development skills to real-world scenarios in my work environment..
   </p>
+</section>
+<br>
+
+<section>
+<h2>Portfolio</h2>
+  
 </section>
 <!------------------------------ Knowledge ------------------------------>
  <section>
@@ -84,6 +95,12 @@
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kidd254&theme=dark)](https://git.io/streak-stats) 
  <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
+
+  <br>
+  <section>
+    <h2>Gmail</h2>
+    <p>Feel free to contact me through my gmail account 📧 lorenkioko@gmail.com</p>
+  </section>
 <a target="_blank"
 href="https://www.linkedin.com/in/lawrence-kioko-972035240/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
