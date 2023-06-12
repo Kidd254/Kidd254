@@ -6,14 +6,15 @@
   <!------------------------------ bio ------------------------------>
   <section>
   <h2>Bio</h2>
-  <p>Meet Lawrence Kioko from Nairobi, Kenya, an aspiring Full-Stack Developer. With a passion for technology and a desire to constantly improve, Lawrence Kioko has taken on a new challenge as a student at Microverse. Over the last four months, Lawrence Kioko has honed his skills in a variety of areas including HTML, CSS, JavaScript, Git flow, and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Lawrence Kioko is well on his way to becoming a successful full stack software developer. In addition to technical skills, Lawrence Kioko has also developed strong communication skills, making him a valuable asset to any team. Lawrence Kioko is excited to continue learning and growing as a software developer and making an impact in the tech industry. ou can check out my portfolio <a href="https://kidd254.github.io/Lawrence-s-Portfolio/">here</a> If you are amazed and look forward for a communication and discusion, kindly contact me through <a target="_blank"
-href="mailto:lorenkioko@gmail.com">Gmail</a></p>
+  <p>Meet Lawrence Kioko from Nairobi, Kenya, an aspiring Full-Stack Developer. With a passion for technology and a desire to constantly improve, Lawrence Kioko has taken on a new challenge as a student at Microverse. Over the last four months, Lawrence Kioko has honed his skills in a variety of areas including HTML, CSS, JavaScript, Git flow, and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Lawrence Kioko is well on his way to becoming a successful full stack software developer. In addition to technical skills, Lawrence Kioko has also developed strong communication skills, making him a valuable asset to any team. Lawrence Kioko is excited to continue learning and growing as a software developer and making an impact in the tech industry. ou can check out my portfolio <a href="https://kidd254.github.io/Lawrence-s-Portfolio/">here</a> If you are amazed and look forward for a communication and discusion, kindly contact me through 📧 lorenkioko@gmail.com</p>
 </section>
 
 <!------------------------------ Now ------------------------------>
  <section>
    <h2><i>What is happening on 2023?</i></h2>
  I am currently on my Microverse classes and will be available soon to start new projects but if you are interested in my profile, contact me by sending an email or following me in my linkedIn.
+ -📧 lorenkioko@gmail.com
+ -🔗 [Lawrence Kioko](https://www.linkedin.com/in/lawrence-kioko-972035240/)
 
 </section>
 <!------------------------------ Experience ------------------------------>
