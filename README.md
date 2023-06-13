@@ -83,8 +83,6 @@
 
  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kidd254&theme=dark)](https://git.io/streak-stats) 
 
- <br>
-  
  <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
 
