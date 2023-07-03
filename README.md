@@ -3,6 +3,7 @@
 
 
   <h1><b>Full-Stack Developer</b></h1>
+  <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
   <!------------------------------ bio ------------------------------>
   <section>
   <h2>Bio</h2>
