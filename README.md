@@ -7,7 +7,7 @@
   <!------------------------------ bio ------------------------------>
   <section>
   <h2>Bio</h2>
-  <p>Meet Lawrence Muema Kioko, a Full-Stack Developer. With a passion for technology and a desire to constantly improve. Lawrence has taken on a new challenge as a student at Microverse. Lawrence has honed his skills in a variety of areas including HTML, CSS, JavaScript, Git flow, Bootstrap and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Lawrence Kioko is well on his way to becoming a successful full stack software developer. In addition to technical skills, Lawrence Kioko has also developed strong communication skills, making him a valuable asset to any team. Lawrence Kioko is excited to continue learning and growing as a software developer and making an impact in the tech industry.You can check out my portfolio <a href="https://lawrences-portfolio.onrender.com/">here</a> . If you are amazed and look forward to further communication and discussion, kindly contact Lawrence Kioko through 📧 lorenkioko@gmail.com.</p>
+  <p>Meet Lawrence Muema Kioko, a Full-Stack Developer. With a passion for technology and a desire to constantly improve. Lawrence has taken on a new challenge as a student at Microverse. Lawrence has honed his skills in a variety of areas including HTML, CSS, JavaScript, Git flow, Bootstrap and collaboration. With the responsive web design knowledge acquired from FreeCodeCamp and the certificate to prove it, Lawrence Kioko is well on his way to becoming a successful full stack software developer. In addition to technical skills, Lawrence Kioko has also developed strong communication skills, making him a valuable asset to any team. Lawrence Kioko is excited to continue learning and growing as a software developer and making an impact in the tech industry.You can check out my portfolio <a href="https://kidd254.github.io/My_Portfolio/index.html">here</a> . If you are amazed and look forward to further communication and discussion, kindly contact Lawrence Kioko through 📧 lorenkioko@gmail.com.</p>
 </section>
 
 <!------------------------------ Now ------------------------------>
@@ -90,7 +90,7 @@ src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&l
 href="https://twitter.com/lawrenc98789206"><img
 src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
 <div/>
-<p>You can check out my portfolio <a href="https://kidd254.github.io/Lawrence-s-Portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://kidd254.github.io/My_Portfolio/index.html">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
   
 <div align="end">
 <p><b>Visitors Count</b></p>  
