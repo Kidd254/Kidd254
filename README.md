@@ -12,8 +12,8 @@
 
 <!------------------------------ Now ------------------------------>
  <section>
-   <h2><i>What is happening on 2023?</i></h2>
- I am currently on my Microverse classes studying remotely from Nairobi, Kenya. I will be available soon to start new projects but if you are interested in my profile, contact me by sending an email
+   <h2><i>What is happening on 2024?</i></h2>
+ I am currently working remotely and building projects. I am open to collaborate on new projects. If you are interested in my profile, contact me by sending an email
  -📧 lorenkioko@gmail.com
    <p><img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/574565690976141685/273FDADA6812C06699E7C226538BD05BF9DEE91D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Lain" width="400px" /></p>
 </section>
