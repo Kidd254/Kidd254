@@ -17,9 +17,6 @@
  -📧 lorenkioko@gmail.com
    <p><img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/574565690976141685/273FDADA6812C06699E7C226538BD05BF9DEE91D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Lain" width="400px" /></p>
 </section>
-
-
-
  <section>
   <h2><i>Experience</i></h2>
   <br>
