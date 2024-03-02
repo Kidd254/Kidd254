@@ -1,7 +1,5 @@
 ### Hello, I'm [Lawrence Muema Kioko](https://github.com)👋
 
-
-
   <h1><b>Full-Stack Developer</b></h1>
   <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
   <!------------------------------ bio ------------------------------>
@@ -13,7 +11,7 @@
 <!------------------------------ Now ------------------------------>
  <section>
    <h2><i>What is happening on 2024?</i></h2>
- I am currently working remotely and building personal projects. I am open to collaborate on new projects.  If you are interested in my profile, contact me by sending an email
+ I am currently working remotely and building personal projects. I am open to collaborate on new projects. I'm learning new languages too and applying the skills in projects. If you are interested in my profile, contact me by sending an email
  -📧 lorenkioko@gmail.com
    <p><img align="right" src="https://steamuserimages-a.akamaihd.net/ugc/574565690976141685/273FDADA6812C06699E7C226538BD05BF9DEE91D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" alt="Lain" width="400px" /></p>
 </section>
